@@ -11,6 +11,7 @@ To get started, clone this repository and run the following commands:
 ```bash
 npm install
 ```
+
 This will install the necessary dependencies for the project.
 
 ## Development
@@ -27,3 +28,15 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+
+## How to Run
+
+To run this project using the Live Server extension in VSCode:
+
+1. Open the project folder in VSCode.
+2. Install the Live Server extension if you haven't already.
+3. Right-click on `index.html` in the Explorer sidebar.
+4. Select **"Open with Live Server"**.
+5. Your default browser will open and display the project. Any changes you make to the files will automatically refresh in the browser.
+
+No additional configuration is required.
